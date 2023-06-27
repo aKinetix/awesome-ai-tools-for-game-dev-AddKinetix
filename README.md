@@ -66,7 +66,9 @@ You have other tools to add? **[Please contribute](https://github.com/simoninith
 - [Plask](https://motion.plask.ai/) (Proprietary, Free, Paid,  Sign Up) : AI-powered Mocap
 Animation Tool.
 
-- [RadicalMotion.com](https://radicalmotion.com/) (Proprietary, Free, Paid,  Sign Up)
+- [RadicalMotion.com](https://radicalmotion.com/) (Proprietary, Free, Paid,  Sign Up
+
+- [Kinetix](https://kinetix.tech/) (Propietary, Free, Sign Up) : Online Animation tool and Unity SDK providing automatic retargeting of animations on any avatar as a direct access to a video-to-animation AI tool
 
 
 ## Voice Generation 🗣️
